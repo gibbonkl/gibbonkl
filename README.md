@@ -1,6 +1,6 @@
 ### Hi there 
 
-🌱 I’m currently learning ...
+🌱 I’m constantly learning ...
 
 <!--
 **gibbonkl/gibbonkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
